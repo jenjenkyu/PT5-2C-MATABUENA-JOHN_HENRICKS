@@ -67,7 +67,7 @@ section{
     display: flex;
     align-items: center;
 }
-.frst > div >div > h1{
+.frst > div >div > h2{
     margin-bottom: 20px;
     color: yellow;
 }
